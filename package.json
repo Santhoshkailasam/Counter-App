@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "counterapp",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -25,7 +25,6 @@
     "react-dom": "18.2.0",
     "react-hook-form": "^7.53.0",
     "react-native": "0.72.10",
-    "react-native-blur": "^3.2.2",
     "react-native-country-picker-modal": "^2.0.0",
     "react-native-gesture-handler": "~2.12.0",
     "react-native-reanimated": "~3.3.0",
